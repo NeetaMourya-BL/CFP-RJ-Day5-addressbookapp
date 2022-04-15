@@ -213,6 +213,21 @@ select {
     padding: 0;
 }
 
+.closebutton{
+        width: 22px;
+        height: 18px;
+        border: none;
+        outline: none;
+        background: white;
+        color: blue;
+        font-size: 15px;
+        border-radius: 20px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        cursor: pointer;
+}
+
 button {
     width: 125px;
     height: 48px;

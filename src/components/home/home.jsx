@@ -16,9 +16,9 @@ function Home() {
         </div>
       </header>
 
-      <div class="main-content">
-        <div class="sub-header-content sub-main-content">
-          <div class="person-detail-text">
+      <div className="main-content">
+        <div className="sub-header-content sub-main-content">
+          <div className="person-detail-text">
             Person Details
           </div>
 
@@ -26,8 +26,8 @@ function Home() {
         </div>
       </div>
 
-      <div class="table-main">
-        <table class="table" id="display">
+      <div className="table-main">
+        <table className="table" id="display">
           <tr>
             <th>Fullname</th>
             <th>Address</th>
