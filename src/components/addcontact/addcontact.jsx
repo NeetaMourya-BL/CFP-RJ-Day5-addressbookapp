@@ -110,8 +110,10 @@ const PayrollForm = () => {
                 <div className="logo-content">
                     <img src={logo} alt="" />
                     <div>
+                    <Link className="addressbook" exact to="/">
                         <span className="book-text">ADDRESS</span><br></br>
                         <span className="book-text add-book">BOOK</span>
+                    </Link>
                     </div>
                 </div>
             </header >

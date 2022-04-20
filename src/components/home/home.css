@@ -96,6 +96,19 @@ body {
     margin-left: 10px;
 }
 
+.addressbook {
+    top: 32px;
+left: 246px;
+width: 112px;
+height: 52px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 22px/25px Montserrat;
+letter-spacing: 0px;
+text-transform: uppercase;
+opacity: 1;
+}
+
 .add-button {
     font-size: 18px;
     font-family: Roboto;

@@ -33,8 +33,10 @@ const Home = () => {
         <div className="logo-content">
           <img src={logo} alt="" />
           <div>
+          <Link className="addressbook" exact to="/addcontact/add">
             <span className="book-text">ADDRESS</span> <br />
             <span className="book-text add-book">BOOK</span>
+          </Link>
           </div>
         </div>
       </header>
